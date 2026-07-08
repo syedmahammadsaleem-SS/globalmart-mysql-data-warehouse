@@ -42,7 +42,7 @@ Built a complete MySQL data warehouse with **8 dimension tables + 1 fact table**
 ```
 globalmart-mysql-data-warehouse/
 │
-├── 📄 README.md                              ← You are here
+├── 📄 README.md                             
 │
 ├── 📁 01-database-schema/                    ← Database & table creation
 │   ├── 01_create_database.sql
